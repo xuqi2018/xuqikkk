@@ -1,0 +1,9 @@
+﻿  Uic'ing Snake.ui...
+  Rcc'ing Snake.qrc...
+  Moc'ing Snake.h...
+   RCC: Warning: No resources in 'D:\source\Snake\Snake\Snake.qrc'.
+  main.cpp
+  Snake.cpp
+  qrc_Snake.cpp
+  moc_Snake.cpp
+  Snake.vcxproj -> D:\source\Snake\Win32\Debug\Snake.exe

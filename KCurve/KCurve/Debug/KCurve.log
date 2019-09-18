@@ -1,0 +1,12 @@
+﻿  Uic'ing KCurve.ui...
+  Rcc'ing KCurve.qrc...
+  Moc'ing KCurve1.h...
+   RCC: Warning: No resources in 'D:\source\KCurve\KCurve\KCurve.qrc'.
+  curves.cpp
+  KCurve1.cpp
+  main.cpp
+  spline.cpp
+  qrc_KCurve.cpp
+  moc_KCurve1.cpp
+d:\source\kcurve\kcurve\curves.cpp(140): warning C4172: 返回局部变量或临时变量的地址: ths
+  KCurve.vcxproj -> D:\source\KCurve\Win32\Debug\KCurve.exe
